@@ -1,9 +1,5 @@
 ## Hi there 👋 I'm Thayane Gavirati
 
-- 🔭 I’m currently working on Front-end and Design.
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 😄 Pronouns: she/her
-
 ![Thayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayrivas&show_icons=true&theme=dracula)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thayrivas&layout=compact&theme=dracula)
 ##
